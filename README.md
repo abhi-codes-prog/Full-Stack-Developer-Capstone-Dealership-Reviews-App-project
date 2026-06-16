@@ -1,9 +1,7 @@
- # Dealership Reviews Application
+# fullstack_developer_capstone
 
-## Repository Name
-dealership-review-app
+Repository Name: xrwvm-fullstack_developer_capstone
 
-## Project Name
-Dealership Reviews and Ratings System
+## Project Description
 
-This project is a full-stack Django and React application that allows users to browse dealerships, view reviews, and submit reviews.
+Full Stack Developer Capstone Project
